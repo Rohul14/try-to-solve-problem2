@@ -1,0 +1,14 @@
+div{
+    color: rgb(6, 158, 11);
+    font-size: medium;
+    border: 10px solid darkgoldenrod;
+    /* border-left: 2px; */
+    margin: 15px 10px ;
+    box-shadow: 8px 6px 5px chartreuse;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+ul{
+    color: aqua;
+    font-size: large;
+    font-style: italic;
+}
